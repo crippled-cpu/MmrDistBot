@@ -1,7 +1,7 @@
 {
   "name": "mmr",
   "version": "1.0.0",
-  "description": "Discord bot for a client",
+  "description": "Discord bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
