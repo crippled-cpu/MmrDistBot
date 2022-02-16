@@ -1,0 +1,8 @@
+{
+  "token": "Your Application Token",
+  "prefix": "!",
+  "errorsLoggingChannel": "A Text Channel Id to Log Errors",
+  "gameVoiceChannelId": "A Voice Channel Id for the Duel",
+  "gameTextChannelId": "A Text Channel Id for the Duel",
+  "mongooseConnectionString": "yourMongoDBconnectionString"
+}
